@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BMIRecord
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=sid\ h\ w\ bmi\ c
+comment2.target=BMIRecord(java.lang.String,\ double,\ double,\ double,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getSubjectId()
+comment4.params=
+comment4.target=java.lang.String\ getCategory()
+comment5.params=
+comment5.target=double\ getHeight()
+comment6.params=
+comment6.target=double\ getWeight()
+comment7.params=
+comment7.target=double\ getBMIValue()
+numComments=8

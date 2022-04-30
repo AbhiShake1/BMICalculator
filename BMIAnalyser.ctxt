@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=BMIAnalyser
+comment1.params=
+comment1.target=BMIAnalyser()
+comment10.params=
+comment10.target=void\ loadFromTables()
+comment11.params=bmi
+comment11.target=java.lang.String\ classify(double)
+comment12.params=number\ lower\ upper
+comment12.target=boolean\ inRange(double,\ double,\ double)
+comment2.params=sid
+comment2.target=BMIRecord\ find(java.lang.String)
+comment3.params=bmi1\ bmi2
+comment3.target=java.util.ArrayList\ find(double,\ double)
+comment4.params=
+comment4.target=int\ getNrecords()
+comment5.params=
+comment5.target=double\ lowestBMI()
+comment6.params=
+comment6.target=double\ highestBMI()
+comment7.params=
+comment7.target=double\ averageBMI()
+comment8.params=
+comment8.target=BMIRecord[]\ getData()
+comment9.params=
+comment9.target=void\ sortById()
+numComments=13

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=View
+comment1.params=a
+comment1.target=View(BMIAnalyser)
+comment2.params=
+comment2.target=void\ commandLoop()
+comment3.params=
+comment3.target=java.lang.String\ help()
+numComments=4
